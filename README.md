@@ -32,11 +32,17 @@
 
 ## Input:
 
+![image](https://github.com/sreekarsh/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139841918/91afe91a-37c0-4a6b-9aa7-031aa1a21c6e)
+
+
 ### Output:
 
+![image](https://github.com/sreekarsh/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139841918/7c31b4b7-e16b-4da1-b84e-9618b90b6c9f)
 
-### Name:
-### Register Number:
+
+
+### Name:Masina sree karsh
+### Register Number: 23005860
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
